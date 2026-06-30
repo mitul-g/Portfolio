@@ -184,7 +184,7 @@ export default function ZyloCaseStudy() {
           className="relative max-w-[1300px] mx-auto rounded-[24px] overflow-hidden border border-border bg-surface-2"
           style={{ aspectRatio: '16/9' }}
         >
-          <ImgSlot src="/screenshots/hero.png" alt="Zylo dashboard" />
+          <ImgSlot src="/screenshots/zylo.png" alt="Zylo dashboard" />
         </motion.div>
       </section>
 

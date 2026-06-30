@@ -63,7 +63,7 @@ export default function Work() {
                 </div>
               </div>
               <div className="relative overflow-hidden min-h-[280px] md:min-h-[340px] bg-surface-2">
-                <ImgSlot src="/screenshots/hero.png" alt="Zylo platform" />
+                <ImgSlot src="/screenshots/zylo.png" alt="Zylo platform" />
               </div>
             </Link>
           </motion.article>
